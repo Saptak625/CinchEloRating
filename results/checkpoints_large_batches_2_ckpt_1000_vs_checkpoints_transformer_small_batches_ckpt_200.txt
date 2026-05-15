@@ -1,0 +1,6 @@
+Wins: 531
+Losses: 232
+Ties: 237
+Winrate: 0.531
+Average Bet Points checkpoints_large_batches_2_ckpt_1000: 2.452
+Average Bet Points checkpoints_transformer_small_batches_ckpt_200: 1.499
